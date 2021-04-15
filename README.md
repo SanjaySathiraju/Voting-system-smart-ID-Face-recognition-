@@ -15,6 +15,9 @@ Design::
 
 The design of the system is primarily divided into two functionalities: Admin and voters. In the system, the admin, once given access, can operate various functions like adding a nominee, voters, and their iris images. Admin can also view results. When it comes to the voter, the only action that is allowed is casting a vote. Voters can log in with valid credentials such as Smart-ID and iris.
 
+The idea of data flow diagrams is to perform system analysis efficiently. The figure below shows how the system is going to be performed.
+
+<img width="453" alt="Screen Shot 2021-04-15 at 4 04 21 AM" src="https://user-images.githubusercontent.com/80937013/114835561-b2334f00-9d9f-11eb-8212-22ce3b69f31f.png">
 
 
 
