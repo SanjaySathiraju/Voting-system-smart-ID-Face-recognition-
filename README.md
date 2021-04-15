@@ -33,3 +33,7 @@ SOFTWARE CONFIG::
 <img width="442" alt="Screen Shot 2021-04-15 at 4 01 50 AM" src="https://user-images.githubusercontent.com/80937013/114835240-5b2d7a00-9d9f-11eb-9505-3ee1a95ffcf1.png">
 
 PYQT5:It is a framework in python to build GUI(Graphical User Interface) apps. It usually facilitates python to work as an altered application development language. It offers a wide range of features like a dialog box, pushbuttons, labels, and other GUI app components.
+
+DEPLOYMENT::
+
+
