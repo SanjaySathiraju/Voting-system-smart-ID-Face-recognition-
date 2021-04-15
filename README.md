@@ -36,4 +36,11 @@ PYQT5:It is a framework in python to build GUI(Graphical User Interface) apps. I
 
 DEPLOYMENT::
 
+<img width="472" alt="Screen Shot 2021-04-15 at 4 12 25 AM" src="https://user-images.githubusercontent.com/80937013/114836586-d2afd900-9da0-11eb-967f-4731986a4a0c.png">
+
+OUTPUT:: 
+
+Output will lokk like this
+
+
 
